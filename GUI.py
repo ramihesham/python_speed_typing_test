@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import *
 import random
-class TypeSpeedGUI:
+class expertlevel:
     def __init__(gui3):
         gui3.window = tk.Tk()
         gui3.window.iconbitmap('icon.ico')
@@ -19,4 +19,4 @@ class TypeSpeedGUI:
                        font=('Comic Sans MS', 20, 'bold'), fg='Green')
         header.place(x=80, y=50)
         gui3.window.mainloop()
-TypeSpeedGUI()
+expertlevel()
