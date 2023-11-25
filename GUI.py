@@ -1,5 +1,6 @@
 import tkinter as tk
 from tkinter import *
+import random
 class TypeSpeedGUI:
     def __init__(gui3):
         gui3.window = tk.Tk()
@@ -8,6 +9,9 @@ class TypeSpeedGUI:
         gui3.window.resizable(0, 0)
         gui3.window.title("speed typing application  (expert level) ")
         gui3.window.config(bg='cyan3')
+        gui3.paragraphs = open('text.txt', 'r').read().split('*')
+        gui3.paragraph_to_be_written = tk.Label(gui3.window, text=random.choice(gui3.paragraphs), font=('arial', 12),  bg='cyan3')
+        gui3.paragraph_to_be_written.grid(padx=100, pady=400)
         timepic = PhotoImage(file='time.png')
         timelabel = Label(gui3.window, image=timepic, bg='cyan3')
         timelabel.place(x=425, y=125)
