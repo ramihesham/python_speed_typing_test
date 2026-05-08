@@ -7,7 +7,7 @@ You can also add your own words, sentences and paragraphs if you want to train y
 
 ## 🎮 Game Features
 
-* 🌍 **Bilingual Support**
+🌍 **Bilingual Support**
 
   * English
   * Arabic
