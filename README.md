@@ -1,3 +1,4 @@
+<img width="1115" height="775" alt="language_selection" src="https://github.com/user-attachments/assets/4ff28a8f-da3c-4db6-83a7-9bbeed2057db" />
 # ⌨️ Speed Typing Test Game
 
 A desktop-based typing game developed using Python and Tkinter to help users improve their typing speed and accuracy through progressive difficulty levels.
