@@ -12,29 +12,29 @@ You can also add your own words, sentences and paragraphs if you want to train y
   * English
   * Arabic
 
-* 🧠 **3 Difficulty Levels**
+🧠 **3 Difficulty Levels**
 
   * **Level 1 (Beginner):** Word typing
   * **Level 2 (Intermediate):** Sentence typing
   * **Level 3 (Advanced):** Paragraph typing
 
-* ⏱️ **Timer-Based Gameplay**
+⏱️ **Timer-Based Gameplay**
 
   * 60 seconds per level
 
-* 📊 **Performance Tracking**
+📊 **Performance Tracking**
 
   * Correct inputs
   * Wrong inputs
   * Final score calculation
 
-* 🎯 **Progression System**
+🎯 **Progression System**
 
   * Level 1 → requires more than 9 correct to pass, more than 19 correct to be expert, if less than 9 correct you will fail and need to retry
   * Level 2 → requires more than 5 correct to pass, more than 8 correct to be expert, if less than 5 correct you will fail and need to retry
   * Level 3 → requires more than 3 correct to pass, more than 5 correct to be expert, if less than 3 correct you will fail and need to retry
 
-* 🔁 **User Controls**
+🔁 **User Controls**
 
   * Retry level
   * Next level
@@ -157,6 +157,7 @@ sudo apt-get install python3-tk
 * Rami Hesham Mohamed
 
 **Mechatronics & Robotics Engineering**
+
 Advanced Programming Languages – 23MTRN11I
 
 ---
