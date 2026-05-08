@@ -96,7 +96,7 @@ python_speed_typing_game/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/ramihesham/python_speed_typing_game.git
+git clone https://github.com/ramihesham/python_speed_typing_test.git
 cd python_speed_typing_game
 ```
 
@@ -135,10 +135,14 @@ sudo apt-get install python3-tk
 
 ## 🖼️ Screenshots
 
-![Main Menu](assets/main_menu.png)
-![Level 1](assets/level1.png)
-![Level 2](assets/level2.png)
-![Level 3](assets/level3.png)
+![Main Menu](assets/main_window.png)
+![language_selection](assets/language_selection.png)
+![level01_english](assets/level01_english.png)
+![level01_arabic](assets/level01_arabic.png)
+![level01_english_results](assets/level01_english_results.png)
+![level02_arabic](assets/level02_arabic.png)
+![level02_arabic_results](assets/level02_arabic_results.png)
+![level01_english](assets/level01_english.png)
 
 ---
 
@@ -154,10 +158,8 @@ sudo apt-get install python3-tk
 
 ## 👨‍💻 Author
 
-* Rami Hesham Mohamed
+Rami Hesham Mohamed
 
 **Mechatronics & Robotics Engineering**
-
-Advanced Programming Languages – 23MTRN11I
 
 ---
