@@ -1,4 +1,3 @@
-<img width="1115" height="775" alt="language_selection" src="https://github.com/user-attachments/assets/4ff28a8f-da3c-4db6-83a7-9bbeed2057db" />
 # ⌨️ Speed Typing Test Game
 
 A desktop-based typing game developed using Python and Tkinter to help users improve their typing speed and accuracy through progressive difficulty levels.
@@ -136,14 +135,32 @@ sudo apt-get install python3-tk
 
 ## 🖼️ Screenshots
 
-![Main Menu](assets/main_window.png)
-![language_selection](assets/language_selection.png)
-![level01_english](assets/level01_english.png)
-![level01_arabic](assets/level01_arabic.png)
-![level01_english_results](assets/level01_english_results.png)
-![level02_arabic](assets/level02_arabic.png)
-![level02_arabic_results](assets/level02_arabic_results.png)
-![level01_english](assets/level01_english.png)
+<img width="1121" height="787" alt="main_window" src="https://github.com/user-attachments/assets/3d17a531-12fc-4a48-8eab-c64993eb878a" />
+
+
+<img width="1115" height="775" alt="language_selection" src="https://github.com/user-attachments/assets/4ff28a8f-da3c-4db6-83a7-9bbeed2057db" />
+
+<img width="1121" height="792" alt="level01_english" src="https://github.com/user-attachments/assets/a5c03272-bf4e-47f8-a3c9-4876e6a2f557" />
+
+<img width="1122" height="792" alt="level01_arabic" src="https://github.com/user-attachments/assets/363ed491-58c0-412f-ac89-8d6fc6646b56" />
+
+<img width="1122" height="787" alt="level01_english_results" src="https://github.com/user-attachments/assets/507f1a22-c3f9-46d0-9bf3-1ea06d977e87" />
+
+<img width="1116" height="785" alt="level02_arabic" src="https://github.com/user-attachments/assets/b74ece50-9140-4f79-af33-9bf38c06d724" />
+
+<img width="1117" height="780" alt="level02_english" src="https://github.com/user-attachments/assets/7d88a6cd-d057-4601-ab87-6b37c57f7d6c" />
+
+<img width="1117" height="787" alt="level02_arabic_results" src="https://github.com/user-attachments/assets/f1a2f592-1ef3-4ef7-9916-fdeb581d9fe5" />
+
+<img width="1122" height="790" alt="level02_results" src="https://github.com/user-attachments/assets/d69ef585-9040-4ebf-babd-951c7a884210" />
+
+
+<img width="1122" height="781" alt="level03_english" src="https://github.com/user-attachments/assets/4894b38b-522b-432e-824f-ed6025c336f1" />
+
+<img width="1117" height="786" alt="level03_arabic" src="https://github.com/user-attachments/assets/3276cb5e-ad6f-4c36-95bc-d16980fa2e66" />
+
+<img width="1110" height="786" alt="level03_results" src="https://github.com/user-attachments/assets/70a2208a-f2fa-4ba1-9873-c1732a370aa0" />
+
 
 ---
 
